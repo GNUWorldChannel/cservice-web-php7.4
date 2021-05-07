@@ -4,7 +4,7 @@
     | |___\__ \  __/ |   \ V /| | (_|  __/_____\ V  V /  __/ |_) |
      \____|___/\___|_|    \_/ |_|\___\___|      \_/\_/ \___|_.__/ 
 
-SPECIAL NOTE: Take in consideration we had to modify a few things to get this part of GNUWORLD working
+SPECIAL NOTE: Take in consideration we had to modify a few things to get this part of GNUWORLD working.
 The code becomes from the official version, but with bug fixes and a new theme.
 OFFICIAL THEME is gone. 
 
