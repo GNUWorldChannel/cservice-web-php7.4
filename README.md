@@ -9,10 +9,6 @@
 		Test OS: Ubuntu 20.04.2 LTS \n \l - Server
 			[ by: ARI3L | y2k ]
 --------------------------------------------------------------------------
-Pay attention to the following: If any cservice-web module does not respond 
-or gives you problems, you should ask the official Undernet network coders,
-because we can only help you install the site, but never modify the code that they wrote.
---------------------------------------------------------------------------
 
 #1. Prepare the system by installing the necessary components.
 
