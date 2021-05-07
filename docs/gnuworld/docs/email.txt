@@ -1,0 +1,65 @@
+Undernet Channel Service Committee 
+ 
+Email change form 
+
+------------------------------- 
+ 
+PLEASE READ THESE INSTRUCTIONS! 
+ 
+EMAIL CHANGE REQUEST 
+ 
+- Please fill out the form completely and carefully, or your request will not be processed. 
+- Use this form to request a manual email change for your username, in cases such as where your email address associated with your username: 
+ 
+a. Expired, deleted, and/or does not receive mails (confirmation links, new passwords, etc.) from our mail server. A test email message will be sent to the existing address in order to verify this aspect. 
+  
+b. Has been compromised/stolen (if your attempts to recover it were unsuccessful, by contacting the email provider or use their password recovery procedures). 
+ 
+1) Create a new valid email address - We strongly recommend the usage of email from your Internet Service Provider (ISP), or a reliable email address. Make sure your email address is functional and secure. It will be your gateway of communication with our departments and also the best way to recover your username. 
+ 
+2) Compose an email with the destination X@undernet.org and add as subject: 'Email change request'
+ 
+3) Simply copy/paste this entire form into the email body (make sure you do not attach it as a .txt/.doc file or we shall ignore it), then supply the following information: 
+  
+a. Username (not nickname): 
+ 
+b. Old email address:  
+
+NOTE: If you have forgotten your email on record with the username, go to https://cservice.undernet.org/live - login with your username and password, click on 'Open Popup' (in 'My Information' section, next to email), a popup box will appear asking you to supply the answer to the verification question of your username, fill in the verification answer, click on submit and your email on record with the username will be shown.
+ 
+c. New email address: 
+ 
+d. Verification question's answer:  
+ 
+(This is the answer to one of the questions below) 
+ 
+- Please indicate which question you previously selected, by writing the answer next to it: 
+ 
+a) What's your mother's maiden name?  
+
+b) What's your dog's (or cat's) name? 
+
+c) What's your father's birthdate? 
+ 
+NOTE: If you have forgotten your verification question/answer, please provide 2-3 guesses of answers you might have selected. 
+ 
+e. Channels where you are added to the access list: 
+ 
+f. Comments (if any):  
+
+* Allow 24-48 hours for a reply to your email change request. 
+ 
+* Join #usernames if you have any questions about the email change request. 
+ 
+------------------------------------------------------------------- 
+
+Email change form 
+Undernet Channel Service Committee X@undernet.org 
+ 
+------------------------------------------------------------------- 
+
+This document was last updated - June, 2020  
+This file is maintained by the Undernet Channel Service Committee 
+Contact cservice@undernet.org with any suggestions or comments. 
+CService URL: https://cservice.undernet.org 
+Undernet URL: https://www.undernet.org 
