@@ -8,7 +8,7 @@ SPECIAL NOTE: Take in consideration we had to modify a few things to get this pa
 The code becomes from the official version, but with bug fixes and a new theme.
 OFFICIAL THEME is gone. 
 
-
+You are able to start GNUWORLD 1st. from gnuworld.sh if you located it like this: /home/gnuworld/gnuworld/bin
 --------------------------------------------------------------------------
 		Test OS: Ubuntu 20.04.2 LTS \n \l - Server
 			[ by: ARI3L | y2k ]
