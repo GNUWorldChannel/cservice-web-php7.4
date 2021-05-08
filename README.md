@@ -39,6 +39,7 @@ OFFICIAL THEME is gone.
 	 gnuworld@ircd:~/gnuworld/cservice-web$ composer install
 	 gnuworld@ircd:~/gnuworld/cservice-web$ cd php_includes
 	 gnuworld@ircd:~/gnuworld/cservice-web/php_includes$ cp config.inc.dist config.inc
+	 gnuworld@ircd:~/gnuworld/cservice-web/php_includes$ cp cmaster.inc.dist cmaster.inc
 	 EDIT: config.inc (With your own values)
 	 
 	 gnuworld@ircd:~/gnuworld/cservice-web/php_includes$ cd ..
