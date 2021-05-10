@@ -18,8 +18,8 @@ You are able to start GNUWORLD 1st. from gnuworld.sh if you located it like this
 
 #1. Prepare the system by installing the necessary components.
 
-	root@ircd:~# apt install apache2 apache2-bin apache2-data apache2-dev apache2-doc apache2-ssl-dev apache2-utils libapache2-mod-php 
-        php7.4 php7.4-cgi php7.4-cli php7.4-common php7.4-curl php7.4-dev php7.4-gd php7.4-json php7.4-mysql php7.4-pgsql php7.4-readline
+	root@ircd:~# apt install apache2 apache2-bin apache2-data apache2-dev apache2-doc apache2-ssl-dev apache2-utils libapache2-mod-php
+	php7.4 php7.4-cgi php7.4-cli php7.4-common php7.4-curl php7.4-dev php7.4-gd php7.4-json php7.4-mysql php7.4-pgsql php7.4-readline
 	php7.4-sqlite3 php7.4-xml php7.4-xmlrpc libreadline-dev libssl-dev openssl zlib1g zlib1g-dev
          
 	root@ircd:~# updatedb	
