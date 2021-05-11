@@ -12,8 +12,8 @@ You are able to start GNUWORLD 1st. from gnuworld.sh if you located it like this
 (Remember to give permission the first time with chmod +x gnuworld.sh)
 
 --------------------------------------------------------------------------
-		Test OS: Ubuntu 20.04.2 LTS \n \l - Server
-			[ by: ARI3L | y2k ]
+		OS: Ubuntu 20.04.2 LTS \n \l - Server
+			[ by: y2k | ARI3L ]
 --------------------------------------------------------------------------
 
 #1. Prepare the system by installing the necessary components.
