@@ -45,7 +45,7 @@ You are able to start GNUWORLD 1st. from gnuworld.sh if you located it like this
 	 gnuworld@ircd:~/gnuworld/cservice-web/php_includes$ cp config.inc.dist config.inc
 	 gnuworld@ircd:~/gnuworld/cservice-web/php_includes$ cp cmaster.inc.dist cmaster.inc
 	 gnuworld@ircd:~/gnuworld/cservice-web/php_includes$ cp blackhole.inc.dist blackhole.inc
-	 EDIT: config.inc (With your own values)
+	 EDIT: inc files (With your own values)
 	 
 	 gnuworld@ircd:~/gnuworld/cservice-web/php_includes$ cd ..
 	 gnuworld@ircd:~/gnuworld/cservice-web/ cd ..
