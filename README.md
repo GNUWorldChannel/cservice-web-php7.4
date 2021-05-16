@@ -90,4 +90,4 @@ You are able to start GNUWORLD 1st. from gnuworld.sh if you located it like this
 	 gnuworld@ircd:~/gnuworld/cservice-web/php_includes$ /usr/local/pgsql/bin/psql -h 127.0.0.1 cservice < ipr.sql
 	 
 	 NOW you are able to login into cservice-web with Admin + temPass if you didn´t change it with the ip provided.
-	 You can add more ips from user edit via web, so no need to add another one.
+	 You can add more ips from user edit via web, so no need to use twice ipr.sql.
