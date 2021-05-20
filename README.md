@@ -71,7 +71,7 @@ You are able to start GNUWORLD 1st. from gnuworld.sh if you located it like this
  	 root@ircd~# nano 000-default.conf
          (check the correct shortcut there where is located cservice-web.)
         
-#4. We back again into gnuworld user		 	 
+#4. We back again into gnuworld user (Now we add into the IPR the first IP).		 	 
          
      root@ircd:~# cd
 	 root@ircd:~# su - gnuworld
