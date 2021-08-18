@@ -28,8 +28,8 @@ You are able to start GNUWORLD 1st. from gnuworld.sh if you located it like this
 	
 	
 	root@ircd:~# updatedb	
-	root@ircd:~#  nano /etc/php/7.4/apache2/php.ini 
-	
+	root@ircd:~# nano /etc/php/7.4/apache2/php.ini 
+	root@ircd:~# nano /etc/php/7.4/fpm/php.ini (if you use nginx)
 	NOW: Go to the line 187 and change short_open_tag (from Off to On)
 	Save the file with (CTRL+O)
 
