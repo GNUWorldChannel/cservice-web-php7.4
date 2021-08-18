@@ -26,7 +26,6 @@ You are able to start GNUWORLD 1st. from gnuworld.sh if you located it like this
 	root@ircd:~# apt install nginx php7.4 php7.4-cgi php7.4-cli php7.4-common php7.4-curl php7.4-dev php7.4-gd php7.4-json php7.4-mysql php7.4-pgsql php7.4-readline
 	php7.4-sqlite3 php7.4-xml php7.4-xmlrpc libreadline-dev libssl-dev openssl zlib1g zlib1g-dev
 	
-	
 	root@ircd:~# updatedb	
 	root@ircd:~# nano /etc/php/7.4/apache2/php.ini 
 	root@ircd:~# nano /etc/php/7.4/fpm/php.ini (if you use nginx)
@@ -34,7 +33,8 @@ You are able to start GNUWORLD 1st. from gnuworld.sh if you located it like this
 	Save the file with (CTRL+O)
 
 	root@ircd:~# service apache2 restart
-
+	root@ircd:~# service nginx restart (if you use nginx)
+        
 	root@ircd:~# curl -sS https://getcomposer.org/installer | php && mv composer.phar /usr/local/bin/composer
 
 #2. Now We going to download the GNUWorld cservice-web part!
@@ -60,8 +60,8 @@ You are able to start GNUWORLD 1st. from gnuworld.sh if you located it like this
 	 
 	 gnuworld@ircd:~/gnuworld$ su
 	 root@ircd:~# cd /var/www/html/
-     root@ircd:/var/www/html# 
-     root@ircd:/var/www/html# chmod 711 ~gnuworld
+         root@ircd:/var/www/html# 
+         root@ircd:/var/www/html# chmod 711 ~gnuworld
   	 root@ircd:/var/www/html# chmod 711 ~gnuworld/cservice-web
   	 root@ircd:/var/www/html# chmod 755 ~gnuworld/cservice-web/php_includes
   	 root@ircd:/var/www/html# chmod 644 ~gnuworld/cservice-web/php_includes/config.inc
@@ -73,6 +73,7 @@ You are able to start GNUWORLD 1st. from gnuworld.sh if you located it like this
    	 root@ircd~# 
 	
 	 root@ircd~# cd /etc/apache2/sites-enabled
+	 root@ircd~# cd /etc/nginx/sites-enabled (If you use nginx)
  	 root@ircd~# nano 000-default.conf
          (check the correct shortcut there where is located cservice-web.)
         
