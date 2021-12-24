@@ -81,13 +81,11 @@ You are able to start GNUWORLD 1st. from gnuworld.sh if you located it like this
          
      root@ircd:~# cd
 	 root@ircd:~# su - gnuworld
-	 gnuworld@ircd:~/gnuworld$ cd /gnuworld/cservice-web/php_includes
-	 gnuworld@ircd:~/gnuworld/cservice-web/php_includes$
+	 gnuworld@ircd:~/gnuworld$ cd cservice-web/php_includes
+	 gnuworld@ircd:~/gnuworld/cservice-web/php_includes$ nano ipr.sql
 	 
 	 NOTE: This entry is for the first username created in the db. (Admin or your custom username)
-	 
-	 NOW: gnuworld@ircd:~/gnuworld$ nano ipr.sql
-	 
+	  
 	 Write your own ip. We show you as an example the first entry if you are trying to access locally.
 	 insert into ip_restrict (id, user_id, added_by, added, type, expiry, value) values (1, 1, 1, now()::abstime::int4, 1, 0, '192.168.1.0/24');
 	 Save the file with (CTRL+O)
