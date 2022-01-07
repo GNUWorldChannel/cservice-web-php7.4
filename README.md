@@ -8,6 +8,8 @@ SPECIAL NOTE: Take in consideration we had to modify a few things to get this pa
 The code becomes from the official version, but with bug fixes and a new theme.
 OFFICIAL THEME is gone. 
 
+SPECIAL NOTE 2: SINCE UNDERNET IS NOW UNDER A TAKEOVER STATUS, this repository will not be updated anymore. 
+
 You are able to start GNUWORLD 1st. from gnuworld.sh if you located it like this: /home/gnuworld/gnuworld/bin
 (Remember to give permission the first time with chmod +x gnuworld.sh)
 
